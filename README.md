@@ -40,6 +40,8 @@ The dataset was pristine, necessitating little modifications:
 4. Tool Adoption: Employ interactive dashboards to obtain real-time insights for company or governmental decision-making.
 
 # Summary
-This study demonstrates the efficacy of IBM Cognos Analytics in extracting meaningful insights from seismic data. By integrating comprehensive visualizations, predictive analytics, and interactive dashboards, stakeholders may make informed decisions to reduce earthquake risks. The complete dashboard and narrative can be accessed at the linked link for an in-depth examination.
+This study demonstrates the efficacy of IBM Cognos Analytics in extracting meaningful insights from seismic data. By integrating comprehensive visualizations, predictive analytics, and interactive dashboards, stakeholders may make informed decisions to reduce earthquake risks.
 
 # Thank You
+
+
