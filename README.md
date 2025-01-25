@@ -9,7 +9,7 @@ Earthquakes present a substantial risk to life and infrastructure, rendering the
 # Objective of the Project
 The principal objective of this project is to examine earthquake data to discern patterns and connections, employing visual and predictive methods to yield insights into earthquake behavior on both global and regional scales.
 
-### Methodology
+# Methodology
 1. Data Preparation: Examine, sanitize, and preprocess the dataset for analysis.
 2. Exploratory Data Analysis (EDA): Examine and visualize the dataset to discern trends, patterns, and distributions.
 3. Predictive Modeling: Develop decision tree models that forecast earthquake importance and magnitude utilizing variables such as location, distance, and gap.
@@ -41,3 +41,5 @@ The dataset was pristine, necessitating little modifications:
 
 # Summary
 This study demonstrates the efficacy of IBM Cognos Analytics in extracting meaningful insights from seismic data. By integrating comprehensive visualizations, predictive analytics, and interactive dashboards, stakeholders may make informed decisions to reduce earthquake risks. The complete dashboard and narrative can be accessed at the linked link for an in-depth examination.
+
+# Thank You
