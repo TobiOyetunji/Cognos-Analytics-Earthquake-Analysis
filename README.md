@@ -1,5 +1,6 @@
 # Introduction
 This study examines a dataset of earthquakes documented globally by the United States Geological Survey (USGS) from July 27 to August 25, 2016. The collection has 8,394 records, each with 17 attributes pertaining to earthquakes, including magnitude, depth, significance, and geographical location. The investigation seeks to identify patterns in earthquake frequency, magnitude, and significance, utilizing IBM Cognos Analytics to generate visualizations, predictive models, and dashboards.
+![Earthquake](https://github.com/user-attachments/assets/e45aae69-715e-417d-977b-4bd519c28434)
 
 # Statement of the Problem
 Earthquakes present a substantial risk to life and infrastructure, rendering their research essential for disaster preparedness and mitigation. This research aims to investigate questions including: - What patterns manifest in seismically active areas?
