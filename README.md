@@ -44,5 +44,5 @@ The dataset was pristine, necessitating little modifications:
 This study demonstrates the efficacy of IBM Cognos Analytics in extracting meaningful insights from seismic data. By integrating comprehensive visualizations, predictive analytics, and interactive dashboards, stakeholders may make informed decisions to reduce earthquake risks.
 
 # Thank You
-![Tobi Oyetunji 2 png](https://github.com/user-attachments/assets/91a11805-ae82-4fb4-a8b7-ae69f4ac8865)
+![Tobi Oyetunji png](https://github.com/user-attachments/assets/ef4d291d-29ca-45c7-8abb-59b4772450ec)
 
